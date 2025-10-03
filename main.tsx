@@ -1,3 +1,2 @@
-// main.tsx (root file)
-// Ye sirf src/main.tsx ko entry point banata hai
-import "./src/main.tsx";
+// root/main.tsx
+import "./src/main.tsx"; // make sure file name exactly matches
